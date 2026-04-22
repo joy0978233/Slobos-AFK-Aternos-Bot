@@ -8,7 +8,7 @@
   "server": {
     "ip": "terraria9.aternos.me",
     "port": 53889,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -22,7 +22,7 @@
       "enabled": true,
       "password": "chalol78"
     },
-    "anti-afk": true
+    "anti-afk": { 
       "enabled": true,
       "sneak": true
     },
